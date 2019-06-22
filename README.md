@@ -18,3 +18,4 @@
 
 ### Zagadnienia 2019-06-22
 * Powtórka zagadnień 2019-06-16 [(ZADANIE)](zadania/tasks_16.md)
+* Mutable vs immutable na przykładzie struktur danych [(ZADANIE)](zadania/mutable_immutable.md)
