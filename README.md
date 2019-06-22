@@ -17,4 +17,4 @@
 * [(ZADANIE DODATKOWE)](zadania/bonus.md)
 
 ### Zagadnienia 2019-06-22
-* Powtórka zagadnień 20190-06-16 [(ZADANIE)](zadania/tasks_16.md)
+* Powtórka zagadnień 2019-06-16 [(ZADANIE)](zadania/tasks_16.md)
