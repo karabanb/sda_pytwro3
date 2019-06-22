@@ -15,3 +15,6 @@
 * Anotacje typów (moduł typing) [(ZADANIE)](zadania/type_annotations.md)
 * Mutable vs immutable na przykładzie struktur danych
 * [(ZADANIE DODATKOWE)](zadania/bonus.md)
+
+### Zagadnienia 2019-06-22
+* Powtórka zagadnień 20190-06-16 [(ZADANIE)](zadania/tasks_16.md)
